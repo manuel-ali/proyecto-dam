@@ -1,0 +1,3527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GranTurismo4>
+    <Marca nombre="AC Cars" pais="Reino Unido">
+        <coche>
+            <nombre>427 S/C</nombre>
+            <año>1966</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Acura" pais="Japón">
+        <coche>
+            <nombre>CL 3.2 Type-S</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>CL 3.2 Type-S</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>DN-X</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>HSC</nombre>
+            <año>2004</año>
+        </coche>
+        <coche>
+            <nombre>Integra Type-R</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>NSX</nombre>
+            <año>2004</año>
+        </coche>
+        <coche>
+            <nombre>NSX</nombre>
+            <año>1991</año>
+        </coche>
+        <coche>
+            <nombre>NSX Coupe</nombre>
+            <año>1997</año>
+        </coche>
+        <coche>
+            <nombre>RSX Type-S</nombre>
+            <año>2004</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Alfa Romeo" pais="Italia">
+        <coche>
+            <nombre>147 2.0 Twinspark</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>147 GTA</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>155 2.5 V6 TI</nombre>
+            <año>1993</año>
+        </coche>
+        <coche>
+            <nombre>156 2.5 V6 24V</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>166 2.5 V6 24V Sportronic</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>Giulia Sprint GTA 1600</nombre>
+            <año>1965</año>
+        </coche>
+        <coche>
+            <nombre>Giulia Sprint Speciale</nombre>
+            <año>1963</año>
+        </coche>
+        <coche>
+            <nombre>GT 3.2 V6 24V</nombre>
+            <año>2004</año>
+        </coche>
+        <coche>
+            <nombre>GTV 3.0 V6 24V</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>Spider 1600 Duetto</nombre>
+            <año>1966</año>
+        </coche>
+        <coche>
+            <nombre>Spider 3.0i V6 24V</nombre>
+            <año>2001</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Alpine" pais="Francia">
+        <coche>
+            <nombre>A110 1600S</nombre>
+            <año>1973</año>
+        </coche>
+        <coche>
+            <nombre>A310 1600VE</nombre>
+            <año>1973</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Amuse" pais="Japón">
+        <coche>
+            <nombre>Carbon R (R34)</nombre>
+            <año>2004</año>
+        </coche>
+        <coche>
+            <nombre>S2000 GT1</nombre>
+            <año>2004</año>
+        </coche>
+        <coche>
+            <nombre>S2000 R1</nombre>
+            <año>2004</año>
+        </coche>
+        <coche>
+            <nombre>S2000 Street Version</nombre>
+            <año>2004</año>
+        </coche>
+    </Marca>
+    <Marca nombre="ASL" pais="Japón">
+        <coche>
+            <nombre>ARTA Garaiya (JGTC)</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>Garaiya</nombre>
+            <año>2002</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Aston Martin" pais="Reino Unido">
+        <coche>
+            <nombre>DB7 Vantage Coupe</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>DB9 Coupe</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>V8 Vantage</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>Vanquish</nombre>
+            <año>2004</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Audi" pais="Alemania">
+        <coche>
+            <nombre>A2 1.4</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>A3 3.2 quattro</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>A4 Touring Car</nombre>
+            <año>2004</año>
+        </coche>
+        <coche>
+            <nombre>Abt Audi TT-R Touring Car</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>Auto Union V16 Type C Streamline</nombre>
+            <año>1937</año>
+        </coche>
+        <coche>
+            <nombre>Le Mans quattro</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>Nuvolari quattro</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>Pikes Peak quattro</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>quattro</nombre>
+            <año>1982</año>
+        </coche>
+        <coche>
+            <nombre>R8 Race Car</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>RS 4</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>RS 6</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>RS 6 Avant</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>S3</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>S4</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>S4</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>TT Coupe 1.8T quattro</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>TT Coupe 3.2 quattro</nombre>
+            <año>2003</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Autobianchi" pais="Italia">
+        <coche>
+            <nombre>A112 Abarth</nombre>
+            <año>1979</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Bentley" pais="Reino Unido">
+        <coche>
+            <nombre>Speed 8 Race Car</nombre>
+            <año>2003</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Blitz" pais="Japón">
+        <coche>
+            <nombre>ER34 D1 spec 2004 (D1GP)</nombre>
+            <año>2004</año>
+        </coche>
+    </Marca>
+    <Marca nombre="BMW" pais="Alemania">
+        <coche>
+            <nombre>120d</nombre>
+            <año>2004</año>
+        </coche>
+        <coche>
+            <nombre>120i</nombre>
+            <año>2004</año>
+        </coche>
+        <coche>
+            <nombre>2002 Turbo</nombre>
+            <año>1973</año>
+        </coche>
+        <coche>
+            <nombre>320i Touring Car</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>330i</nombre>
+            <año>2005</año>
+        </coche>
+        <coche>
+            <nombre>M Coupe</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>M3</nombre>
+            <año>2004</año>
+        </coche>
+        <coche>
+            <nombre>M3 CSL</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>M3 GTR</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>M3 GTR Race Car</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>M5</nombre>
+            <año>2005</año>
+        </coche>
+        <coche>
+            <nombre>McLaren F1 GTR Race Car</nombre>
+            <año>1997</año>
+        </coche>
+        <coche>
+            <nombre>V12 LMR Race Car</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>Z4</nombre>
+            <año>2003</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Buick" pais="Estados Unidos">
+        <coche>
+            <nombre>GNX</nombre>
+            <año>1987</año>
+        </coche>
+        <coche>
+            <nombre>Special</nombre>
+            <año>1962</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Cadillac" pais="Estados Unidos">
+        <coche>
+            <nombre>CIEN</nombre>
+            <año>2002</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Callaway" pais="Estados Unidos">
+        <coche>
+            <nombre>C12</nombre>
+            <año>2003</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Caterham" pais="Reino Unido">
+        <coche>
+            <nombre>Seven Fire Blade</nombre>
+            <año>2002</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Chaparral" pais="Estados Unidos">
+        <coche>
+            <nombre>2D Race Car</nombre>
+            <año>1967</año>
+        </coche>
+        <coche>
+            <nombre>2J Race Car</nombre>
+            <año>1970</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Chevrolet" pais="Estados Unidos">
+        <coche>
+            <nombre>Camaro IROC-Z Concept</nombre>
+            <año>1988</año>
+        </coche>
+        <coche>
+            <nombre>Camaro LM Race Car</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>Camaro SS</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>Camaro SS</nombre>
+            <año>1969</año>
+        </coche>
+        <coche>
+            <nombre>Camaro Z28 302</nombre>
+            <año>1969</año>
+        </coche>
+        <coche>
+            <nombre>Camaro Z28 Coupe</nombre>
+            <año>1997</año>
+        </coche>
+        <coche>
+            <nombre>Chevelle SS 454</nombre>
+            <año>1970</año>
+        </coche>
+        <coche>
+            <nombre>Corvette C5R (C5)</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>Corvette Convertible (C1)</nombre>
+            <año>1954</año>
+        </coche>
+        <coche>
+            <nombre>Corvette Coupe (C2)</nombre>
+            <año>1963</año>
+        </coche>
+        <coche>
+            <nombre>Corvette GRAND SPORT (C4)</nombre>
+            <año>1996</año>
+        </coche>
+        <coche>
+            <nombre>Corvette Stingray L46 350 (C3)</nombre>
+            <año>1969</año>
+        </coche>
+        <coche>
+            <nombre>Corvette Z06 (C2) Race Car</nombre>
+            <año>1963</año>
+        </coche>
+        <coche>
+            <nombre>Corvette Z06 (C5)</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>Corvette ZR-1 (C4)</nombre>
+            <año>1990</año>
+        </coche>
+        <coche>
+            <nombre>Silverado SST Concept</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>SSR</nombre>
+            <año>2003</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Chrysler" pais="Estados Unidos">
+        <coche>
+            <nombre>300C</nombre>
+            <año>2005</año>
+        </coche>
+        <coche>
+            <nombre>Crossfire</nombre>
+            <año>2004</año>
+        </coche>
+        <coche>
+            <nombre>Dodge VIPER GTS-R Team Oreca Race Car</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>Prowler</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>PT-Cruiser</nombre>
+            <año>2000</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Citroën" pais="Francia">
+        <coche>
+            <nombre>2CV Type A</nombre>
+            <año>1954</año>
+        </coche>
+        <coche>
+            <nombre>C3 1.6</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>C5 V6 Exclusive</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>Xantia 3.0i V6 Exclusive</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>Xsara Rally Car</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>Xsara VTR</nombre>
+            <año>2003</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Cizeta" pais="Italia">
+        <coche>
+            <nombre>V16T</nombre>
+            <año>1994</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Daihatsu" pais="Japón">
+        <coche>
+            <nombre>Copen Active Top</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>Copen Detachable Top</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>Cuore TR-XX Avanzato R</nombre>
+            <año>1997</año>
+        </coche>
+        <coche>
+            <nombre>Midget</nombre>
+            <año>1963</año>
+        </coche>
+        <coche>
+            <nombre>Midget II D-type</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>MIRA TR-XX Avanzato R</nombre>
+            <año>1997</año>
+        </coche>
+        <coche>
+            <nombre>MOVE Custom RS Limited</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>MOVE CX</nombre>
+            <año>1995</año>
+        </coche>
+        <coche>
+            <nombre>MOVE SR-XX 2WD</nombre>
+            <año>1997</año>
+        </coche>
+        <coche>
+            <nombre>MOVE SR-XX 4WD</nombre>
+            <año>1997</año>
+        </coche>
+        <coche>
+            <nombre>SIRION CX 2WD (J)</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>SIRION CX 4WD (J)</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>SIRION X4 (J)</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>STORIA CX 2WD</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>STORIA CX 4WD</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>STORIA X4</nombre>
+            <año>2000</año>
+        </coche>
+    </Marca>
+    <Marca nombre="DMC" pais="Estados Unidos">
+        <coche>
+            <nombre>DeLorean S2</nombre>
+            <año>2004</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Dodge" pais="Estados Unidos">
+        <coche>
+            <nombre>Charger 440 R/T</nombre>
+            <año>1970</año>
+        </coche>
+        <coche>
+            <nombre>Charger Super Bee 426 Hemi</nombre>
+            <año>1971</año>
+        </coche>
+        <coche>
+            <nombre>RAM 1500 LARAMIE Hemi Quad Cab</nombre>
+            <año>2004</año>
+        </coche>
+        <coche>
+            <nombre>SRT4</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>VIPER GTS</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>VIPER GTS-R Team Oreca Race Car</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>VIPER GTSR Concept</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>VIPER SRT10</nombre>
+            <año>2003</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Dome" pais="Japón">
+        <coche>
+            <nombre>ZERO</nombre>
+            <año>1978</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Eagle" pais="Estados Unidos">
+        <coche>
+            <nombre>Talon Esi</nombre>
+            <año>1997</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Fiat" pais="Italia">
+        <coche>
+            <nombre>500F</nombre>
+            <año>1965</año>
+        </coche>
+        <coche>
+            <nombre>500L</nombre>
+            <año>1969</año>
+        </coche>
+        <coche>
+            <nombre>500R</nombre>
+            <año>1972</año>
+        </coche>
+        <coche>
+            <nombre>Barchetta Giovane Due</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>Coupe Turbo Plus</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>Panda Super i.e.</nombre>
+            <año>1990</año>
+        </coche>
+        <coche>
+            <nombre>Punto HGT Abarth</nombre>
+            <año>2000</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Ford" pais="Estados Unidos">
+        <coche>
+            <nombre>Escort Rally Car</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>FOCUS Rally Car</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>FOCUS RS</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>FOCUS ST170</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>GT</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>GT</nombre>
+            <año>2005</año>
+        </coche>
+        <coche>
+            <nombre>GT (No Stripe)</nombre>
+            <año>2005</año>
+        </coche>
+        <coche>
+            <nombre>GT LM Race Car</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>GT LM Race Car Spec II</nombre>
+            <año>2004</año>
+        </coche>
+        <coche>
+            <nombre>GT40 Race Car</nombre>
+            <año>1969</año>
+        </coche>
+        <coche>
+            <nombre>Ka</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>Model T Tourer</nombre>
+            <año>1915</año>
+        </coche>
+        <coche>
+            <nombre>Mustang GT</nombre>
+            <año>2005</año>
+        </coche>
+        <coche>
+            <nombre>MUSTANG SVT Cobra R</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>RS200</nombre>
+            <año>1984</año>
+        </coche>
+        <coche>
+            <nombre>RS200 Rally Car</nombre>
+            <año>1985</año>
+        </coche>
+        <coche>
+            <nombre>SVT F-150 Lightning</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>Taurus SHO</nombre>
+            <año>1998</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Ford Australia" pais="Australia">
+        <coche>
+            <nombre>2000 Falcon XR8</nombre>
+            <año>2000</año>
+        </coche>
+    </Marca>
+    <Marca nombre="FPV" pais="Australia">
+        <coche>
+            <nombre>F6 Typhoon</nombre>
+            <año>2004</año>
+        </coche>
+        <coche>
+            <nombre>GT</nombre>
+            <año>2004</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Gillet" pais="Bélgica">
+        <coche>
+            <nombre>Vertigo Race Car</nombre>
+            <año>2004</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Ginetta" pais="Reino Unido">
+        <coche>
+            <nombre>G4</nombre>
+            <año>1964</año>
+        </coche>
+    </Marca>
+    <Marca nombre="HKS" pais="Japón">
+        <coche>
+            <nombre>GENKI HYPER SILVIA RS2 (D1GP)</nombre>
+            <año>2004</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Holden" pais="Australia">
+        <coche>
+            <nombre>Commodore SS</nombre>
+            <año>2004</año>
+        </coche>
+        <coche>
+            <nombre>Monaro CV8</nombre>
+            <año>2004</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Hommell" pais="Francia">
+        <coche>
+            <nombre>Berlinette R/S Coupe</nombre>
+            <año>1999</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Honda" pais="Japón">
+        <coche>
+            <nombre>1300 Coupe 9 S</nombre>
+            <año>1970</año>
+        </coche>
+        <coche>
+            <nombre>ACCORD Coupe</nombre>
+            <año>1988</año>
+        </coche>
+        <coche>
+            <nombre>ACCORD Coupe EX</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>ACCORD Euro-R</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>ARTA NSX (JGTC)</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>BALLADE SPORTS CR-X 1.5i</nombre>
+            <año>1983</año>
+        </coche>
+        <coche>
+            <nombre>BEAT</nombre>
+            <año>1991</año>
+        </coche>
+        <coche>
+            <nombre>BEAT Version F</nombre>
+            <año>1992</año>
+        </coche>
+        <coche>
+            <nombre>BEAT Version Z</nombre>
+            <año>1993</año>
+        </coche>
+        <coche>
+            <nombre>Castrol MUGEN NSX (JGTC)</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>CITY Turbo II</nombre>
+            <año>1983</año>
+        </coche>
+        <coche>
+            <nombre>CIVIC 1500 3door 25i</nombre>
+            <año>1983</año>
+        </coche>
+        <coche>
+            <nombre>CIVIC SiR-II (EG)</nombre>
+            <año>1991</año>
+        </coche>
+        <coche>
+            <nombre>CIVIC TYPE R (EK)</nombre>
+            <año>1997</año>
+        </coche>
+        <coche>
+            <nombre>CIVIC TYPE R (EK)</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>CIVIC TYPE R (EP)</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>CIVIC TYPE R (EP)</nombre>
+            <año>2004</año>
+        </coche>
+        <coche>
+            <nombre>CR-X del Sol SiR</nombre>
+            <año>1992</año>
+        </coche>
+        <coche>
+            <nombre>CR-X SiR</nombre>
+            <año>1990</año>
+        </coche>
+        <coche>
+            <nombre>DUALNOTE</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>ELEMENT</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>Fit W</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>Gathers Drider CIVIC Race Car</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>HSC "The 37th Tokyo Motor Show Concept Car"</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>Insight</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>INTEGRA TYPE R (DC2)</nombre>
+            <año>1995</año>
+        </coche>
+        <coche>
+            <nombre>INTEGRA TYPE R (DC2)</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>INTEGRA TYPE R (DC2)</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>INTEGRA TYPE R (DC5)</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>INTEGRA TYPE R Touring Car</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>Jazz 1.4 DSi SE Sport</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>LIFE STEP VAN</nombre>
+            <año>1972</año>
+        </coche>
+        <coche>
+            <nombre>LOCTITE MUGEN NSX (JGTC)</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>Mobil 1 NSX (JGTC)</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>MUGEN MOTUL CIVIC Si Race Car</nombre>
+            <año>1987</año>
+        </coche>
+        <coche>
+            <nombre>N360</nombre>
+            <año>1967</año>
+        </coche>
+        <coche>
+            <nombre>NSX</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>NSX</nombre>
+            <año>1990</año>
+        </coche>
+        <coche>
+            <nombre>NSX</nombre>
+            <año>1993</año>
+        </coche>
+        <coche>
+            <nombre>NSX</nombre>
+            <año>1995</año>
+        </coche>
+        <coche>
+            <nombre>NSX</nombre>
+            <año>1997</año>
+        </coche>
+        <coche>
+            <nombre>NSX</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>NSX Type R</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>NSX Type R</nombre>
+            <año>1992</año>
+        </coche>
+        <coche>
+            <nombre>NSX Type S</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>NSX Type S</nombre>
+            <año>1997</año>
+        </coche>
+        <coche>
+            <nombre>NSX Type S</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>NSX Type S Zero</nombre>
+            <año>1997</año>
+        </coche>
+        <coche>
+            <nombre>NSX Type S Zero</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>NSX-R Concept</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>NSX-R Prototype LM Race Car</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>NSX-R Prototype LM Road Car</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>Odyssey</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>PRELUDE Si VTEC</nombre>
+            <año>1991</año>
+        </coche>
+        <coche>
+            <nombre>PRELUDE SiR</nombre>
+            <año>1996</año>
+        </coche>
+        <coche>
+            <nombre>PRELUDE SiR S spec</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>PRELUDE Type S</nombre>
+            <año>1996</año>
+        </coche>
+        <coche>
+            <nombre>PRELUDE Type S</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>RAYBRIG NSX (JGTC)</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>S2000</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>S2000</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>S2000</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>S2000</nombre>
+            <año>2004</año>
+        </coche>
+        <coche>
+            <nombre>S2000 LM Race Car</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>S2000 Type V</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>S2000 Type V</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>S2000 Type V</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>S500</nombre>
+            <año>1963</año>
+        </coche>
+        <coche>
+            <nombre>S600</nombre>
+            <año>1964</año>
+        </coche>
+        <coche>
+            <nombre>S800</nombre>
+            <año>1966</año>
+        </coche>
+        <coche>
+            <nombre>S800 RSC Race Car</nombre>
+            <año>1968</año>
+        </coche>
+        <coche>
+            <nombre>TAKATA DOME NSX (JGTC)</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>TODAY G</nombre>
+            <año>1985</año>
+        </coche>
+        <coche>
+            <nombre>Z ACT</nombre>
+            <año>1970</año>
+        </coche>
+    </Marca>
+    <Marca nombre="HPA Motorsports" pais="Estados Unidos">
+        <coche>
+            <nombre>Stage II R32</nombre>
+            <año>2004</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Hyundai" pais="Corea del Sur">
+        <coche>
+            <nombre>Accent Rally Car</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>Click Type-R</nombre>
+            <año>2004</año>
+        </coche>
+        <coche>
+            <nombre>Clix</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>Coupe FX</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>HCD6</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>Tiburon GT</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>Tiburon Turbulence</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>Tuscani</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>Tuscani CCS</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>Verna Rally Car</nombre>
+            <año>2001</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Infiniti" pais="Japón">
+        <coche>
+            <nombre>FX45 Concept</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>G20</nombre>
+            <año>1990</año>
+        </coche>
+        <coche>
+            <nombre>G35 Coupe</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>G35 SEDAN</nombre>
+            <año>2003</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Isuzu" pais="Japón">
+        <coche>
+            <nombre>117 Coupe</nombre>
+            <año>1968</año>
+        </coche>
+        <coche>
+            <nombre>Bellett 1600 GT-R</nombre>
+            <año>1969</año>
+        </coche>
+        <coche>
+            <nombre>PIAZZA XE</nombre>
+            <año>1981</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Jaguar" pais="Reino Unido">
+        <coche>
+            <nombre>E-Type Coupe</nombre>
+            <año>1961</año>
+        </coche>
+        <coche>
+            <nombre>S-Type R</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>XJ220</nombre>
+            <año>1992</año>
+        </coche>
+        <coche>
+            <nombre>XJ220 LM Race Car</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>XJR-9 Race Car</nombre>
+            <año>1988</año>
+        </coche>
+        <coche>
+            <nombre>XKR Coupe</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>XKR R-Performance</nombre>
+            <año>2002</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Jay Leno" pais="Estados Unidos">
+        <coche>
+            <nombre>Tank Car</nombre>
+            <año>2003</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Jensen" pais="Reino Unido">
+        <coche>
+            <nombre>Interceptor MkIII</nombre>
+            <año>1974</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Lancia" pais="Italia">
+        <coche>
+            <nombre>DELTA HF Integrale Evoluzione</nombre>
+            <año>1991</año>
+        </coche>
+        <coche>
+            <nombre>DELTA HF Integrale Rally Car</nombre>
+            <año>1992</año>
+        </coche>
+        <coche>
+            <nombre>Delta S4 Rally Car</nombre>
+            <año>1985</año>
+        </coche>
+        <coche>
+            <nombre>STRATOS</nombre>
+            <año>1973</año>
+        </coche>
+        <coche>
+            <nombre>STRATOS Rally Car</nombre>
+            <año>1977</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Land Rover" pais="Reino Unido">
+        <coche>
+            <nombre>Range Stormer Concept</nombre>
+            <año>2004</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Lexus" pais="Japón">
+        <coche>
+            <nombre>GS 300</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>GS 300</nombre>
+            <año>1991</año>
+        </coche>
+        <coche>
+            <nombre>GS 300 Vertex Edition (J)</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>IS 200</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>IS 200 (J)</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>IS 200 GT-1 Race Car</nombre>
+            <año>2004</año>
+        </coche>
+        <coche>
+            <nombre>IS 300 Sport Cross</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>SC 300</nombre>
+            <año>1997</año>
+        </coche>
+        <coche>
+            <nombre>SC 430</nombre>
+            <año>2001</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Lister" pais="Reino Unido">
+        <coche>
+            <nombre>Storm V12 Race Car</nombre>
+            <año>1999</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Lotus" pais="Reino Unido">
+        <coche>
+            <nombre>Carlton</nombre>
+            <año>1990</año>
+        </coche>
+        <coche>
+            <nombre>Elan S1</nombre>
+            <año>1962</año>
+        </coche>
+        <coche>
+            <nombre>Elise</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>Elise 111R</nombre>
+            <año>2004</año>
+        </coche>
+        <coche>
+            <nombre>Elise 111S</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>Elise Sport 190</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>Elise Type 72</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>Esprit Sport 350</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>Esprit Turbo HC</nombre>
+            <año>1987</año>
+        </coche>
+        <coche>
+            <nombre>Esprit V8</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>Esprit V8 GT</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>Esprit V8 SE</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>Europa Special</nombre>
+            <año>1971</año>
+        </coche>
+        <coche>
+            <nombre>Motor Sport Elise</nombre>
+            <año>1999</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Mini" pais="Reino Unido">
+        <coche>
+            <nombre>Marcos GT</nombre>
+            <año>1970</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Mazda" pais="Japón">
+        <coche>
+            <nombre>110S (L10A)</nombre>
+            <año>1967</año>
+        </coche>
+        <coche>
+            <nombre>110S (L10B)</nombre>
+            <año>1968</año>
+        </coche>
+        <coche>
+            <nombre>787B Race Car</nombre>
+            <año>1991</año>
+        </coche>
+        <coche>
+            <nombre>Atenza Concept</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>Atenza Sports 23Z</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>Atenza Touring Car</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>Autozam AZ-1</nombre>
+            <año>1992</año>
+        </coche>
+        <coche>
+            <nombre>BP FALKEN RX-7 (D1GP)</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>Carol 360 Deluxe</nombre>
+            <año>1962</año>
+        </coche>
+        <coche>
+            <nombre>Cosmo Sport (L10A)</nombre>
+            <año>1967</año>
+        </coche>
+        <coche>
+            <nombre>Cosmo Sport (L10B)</nombre>
+            <año>1968</año>
+        </coche>
+        <coche>
+            <nombre>DEMIO (J)</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>DEMIO GL-X</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>DEMIO SPORT</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>éfini RX-7 Type R (FD)</nombre>
+            <año>1991</año>
+        </coche>
+        <coche>
+            <nombre>éfini RX-7 Type R (FD)</nombre>
+            <año>1993</año>
+        </coche>
+        <coche>
+            <nombre>éfini RX-7 Type R-S (FD)</nombre>
+            <año>1995</año>
+        </coche>
+        <coche>
+            <nombre>éfini RX-7 Type RS (FD)</nombre>
+            <año>1996</año>
+        </coche>
+        <coche>
+            <nombre>éfini RX-7 Type RZ (FD)</nombre>
+            <año>1992</año>
+        </coche>
+        <coche>
+            <nombre>éfini RX-7 Type RZ (FD)</nombre>
+            <año>1993</año>
+        </coche>
+        <coche>
+            <nombre>éfini RX-7 Type RZ (FD)</nombre>
+            <año>1995</año>
+        </coche>
+        <coche>
+            <nombre>éfini RX-7 Type RZ (FD)</nombre>
+            <año>1996</año>
+        </coche>
+        <coche>
+            <nombre>Eunos Roadster (NA)</nombre>
+            <año>1989</año>
+        </coche>
+        <coche>
+            <nombre>Eunos Roadster J-Limited (NA)</nombre>
+            <año>1991</año>
+        </coche>
+        <coche>
+            <nombre>Eunos Roadster J-Limited II (NA)</nombre>
+            <año>1993</año>
+        </coche>
+        <coche>
+            <nombre>Eunos Roadster S-Special Type I (NA)</nombre>
+            <año>1995</año>
+        </coche>
+        <coche>
+            <nombre>Eunos Roadster SR-Limited (NA)</nombre>
+            <año>1997</año>
+        </coche>
+        <coche>
+            <nombre>Eunos Roadster V-Special Type II (NA)</nombre>
+            <año>1993</año>
+        </coche>
+        <coche>
+            <nombre>Eunos Roadster VR-Limited (NA)</nombre>
+            <año>1995</año>
+        </coche>
+        <coche>
+            <nombre>Familia Sedan Sport 20</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>KUSABI</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>Lantis Coupe 2000 Type R</nombre>
+            <año>1993</año>
+        </coche>
+        <coche>
+            <nombre>323F</nombre>
+            <año>1993</año>
+        </coche>
+        <coche>
+            <nombre>Mazda2</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>Mazda6 5-door</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>Mazda6 Concept</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>Mazda6 MPS</nombre>
+            <año>2005</año>
+        </coche>
+        <coche>
+            <nombre>Mazda6 Touring Car</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>Mazdaspeed Atenza</nombre>
+            <año>2005</año>
+        </coche>
+        <coche>
+            <nombre>Mazdaspeed6</nombre>
+            <año>2005</año>
+        </coche>
+        <coche>
+            <nombre>MX-5</nombre>
+            <año>2005</año>
+        </coche>
+        <coche>
+            <nombre>MX-5 (NA)</nombre>
+            <año>1989</año>
+        </coche>
+        <coche>
+            <nombre>MX-5 1.8 RS (NB, J)</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>MX-5 1600 NR-A (NB, J)</nombre>
+            <año>2004</año>
+        </coche>
+        <coche>
+            <nombre>MX-5 1800 RS (NB, J)</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>MX-5 1800 RS (NB, J)</nombre>
+            <año>2004</año>
+        </coche>
+        <coche>
+            <nombre>MX-5 J-Limited (NA, J)</nombre>
+            <año>1991</año>
+        </coche>
+        <coche>
+            <nombre>MX-5 J-Limited II (NA, J)</nombre>
+            <año>1993</año>
+        </coche>
+        <coche>
+            <nombre>MX-5 Miata (NA)</nombre>
+            <año>1989</año>
+        </coche>
+        <coche>
+            <nombre>MX-5 Miata 1.8 RS (NB, J)</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>MX-5 Miata 1600 NR-A (NB, J)</nombre>
+            <año>2004</año>
+        </coche>
+        <coche>
+            <nombre>MX-5 Miata 1800 RS (NB, J)</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>MX-5 Miata 1800 RS (NB, J)</nombre>
+            <año>2004</año>
+        </coche>
+        <coche>
+            <nombre>MX-5 Miata J-Limited (NA, J)</nombre>
+            <año>1991</año>
+        </coche>
+        <coche>
+            <nombre>MX-5 Miata J-Limited II (NA, J)</nombre>
+            <año>1993</año>
+        </coche>
+        <coche>
+            <nombre>MX-5 Miata S-Special Type I (NA, J)</nombre>
+            <año>1995</año>
+        </coche>
+        <coche>
+            <nombre>MX-5 Miata SR-Limited (NA, J)</nombre>
+            <año>1997</año>
+        </coche>
+        <coche>
+            <nombre>MX-5 Miata V-Special Type II (NA, J)</nombre>
+            <año>1993</año>
+        </coche>
+        <coche>
+            <nombre>MX-5 Miata VR-Limited (NA, J)</nombre>
+            <año>1995</año>
+        </coche>
+        <coche>
+            <nombre>MX-5 S-Special Type I (NA, J)</nombre>
+            <año>1995</año>
+        </coche>
+        <coche>
+            <nombre>MX-5 SR-Limited (NA, J)</nombre>
+            <año>1997</año>
+        </coche>
+        <coche>
+            <nombre>MX-5 V-Special Type II (NA, J)</nombre>
+            <año>1993</año>
+        </coche>
+        <coche>
+            <nombre>MX-5 VR-Limited (NA, J)</nombre>
+            <año>1995</año>
+        </coche>
+        <coche>
+            <nombre>MX-Crossport Concept</nombre>
+            <año>2005</año>
+        </coche>
+        <coche>
+            <nombre>Protegé</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>ROADSTER 1.8 RS (NB)</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>ROADSTER 1600 NR-A (NB)</nombre>
+            <año>2004</año>
+        </coche>
+        <coche>
+            <nombre>ROADSTER 1800 RS (NB)</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>ROADSTER 1800 RS (NB)</nombre>
+            <año>2004</año>
+        </coche>
+        <coche>
+            <nombre>RX-7 GT-Limited (FC, J)</nombre>
+            <año>1985</año>
+        </coche>
+        <coche>
+            <nombre>RX-7 GT-X (FC, J)</nombre>
+            <año>1990</año>
+        </coche>
+        <coche>
+            <nombre>RX-7 INFINI III (FC, J)</nombre>
+            <año>1990</año>
+        </coche>
+        <coche>
+            <nombre>RX-7 LM Race Car</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>RX-7 Spirit R Type A (FD)</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>RX-7 Type R (FD, J)</nombre>
+            <año>1991</año>
+        </coche>
+        <coche>
+            <nombre>RX-7 Type R (FD, J)</nombre>
+            <año>1993</año>
+        </coche>
+        <coche>
+            <nombre>RX-7 Type R Bathurst R (FD)</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>RX-7 Type R-S (FD, J)</nombre>
+            <año>1995</año>
+        </coche>
+        <coche>
+            <nombre>RX-7 Type RS (FD, J)</nombre>
+            <año>1996</año>
+        </coche>
+        <coche>
+            <nombre>RX-7 Type RS (FD)</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>RX-7 Type RS (FD)</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>RX-7 Type RS-R (FD)</nombre>
+            <año>1997</año>
+        </coche>
+        <coche>
+            <nombre>RX-7 Type RZ (FD, J)</nombre>
+            <año>1992</año>
+        </coche>
+        <coche>
+            <nombre>RX-7 Type RZ (FD, J)</nombre>
+            <año>1993</año>
+        </coche>
+        <coche>
+            <nombre>RX-7 Type RZ (FD, J)</nombre>
+            <año>1995</año>
+        </coche>
+        <coche>
+            <nombre>RX-7 Type RZ (FD, J)</nombre>
+            <año>1996</año>
+        </coche>
+        <coche>
+            <nombre>RX-7 Type RZ (FD)</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>RX-8</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>RX-8 Concept (Type-I)</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>RX-8 Concept (Type-II)</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>RX-8 Concept LM Race Car</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>RX-8 Type E</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>RX-8 Type S</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>SAVANNA RX-7 GT-Limited (FC)</nombre>
+            <año>1985</año>
+        </coche>
+        <coche>
+            <nombre>SAVANNA RX-7 GT-X (FC)</nombre>
+            <año>1990</año>
+        </coche>
+        <coche>
+            <nombre>SAVANNA RX-7 INFINI III (FC)</nombre>
+            <año>1990</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Mercedes-Benz" pais="Alemania">
+        <coche>
+            <nombre>190 E 2.5 - 16 Evolution II</nombre>
+            <año>1991</año>
+        </coche>
+        <coche>
+            <nombre>300 SL Coupe</nombre>
+            <año>1954</año>
+        </coche>
+        <coche>
+            <nombre>A 160 Avantgarde</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>AMG Mercedes 190 E 2.5 - 16 Evolution II Touring Car</nombre>
+            <año>1992</año>
+        </coche>
+        <coche>
+            <nombre>AMG Mercedes CLK-GTR Race Car</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>Benz Patent Motor Wagen</nombre>
+            <año>1886</año>
+        </coche>
+        <coche>
+            <nombre>CL 600</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>CLK 55 AMG</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>CLK Touring Car</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>Daimler Motor Carriage</nombre>
+            <año>1886</año>
+        </coche>
+        <coche>
+            <nombre>E 55 AMG</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>Sauber Mercedes C 9 Race Car</nombre>
+            <año>1989</año>
+        </coche>
+        <coche>
+            <nombre>SL 500 (R129)</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>SL 500 (R230)</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>SL 55 AMG (R230)</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>SL 600 (R129)</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>SL 600 (R230)</nombre>
+            <año>2004</año>
+        </coche>
+        <coche>
+            <nombre>SL 65 AMG (R230)</nombre>
+            <año>2004</año>
+        </coche>
+        <coche>
+            <nombre>SLK 230 Kompressor</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>SLR McLaren</nombre>
+            <año>2003</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Mercury" pais="Estados Unidos">
+        <coche>
+            <nombre>Cougar XR-7</nombre>
+            <año>1967</año>
+        </coche>
+    </Marca>
+    <Marca nombre="MG" pais="Reino Unido">
+        <coche>
+            <nombre>MGF</nombre>
+            <año>1997</año>
+        </coche>
+        <coche>
+            <nombre>TF160</nombre>
+            <año>2003</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Mine's" pais="Japón">
+        <coche>
+            <nombre>Lancer Evolution VI</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>Skyline GT-R N1 V spec (R34)</nombre>
+            <año>2000</año>
+        </coche>
+    </Marca>
+    <Marca nombre="MINI" pais="Reino Unido">
+        <coche>
+            <nombre>COOPER</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>COOPER-S</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>ONE</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>COOPER 1.3i</nombre>
+            <año>1998</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Mitsubishi" pais="Japón">
+        <coche>
+            <nombre>3000GT MR (J)</nombre>
+            <año>1995</año>
+        </coche>
+        <coche>
+            <nombre>3000GT MR (J)</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>3000GT SL (J)</nombre>
+            <año>1995</año>
+        </coche>
+        <coche>
+            <nombre>3000GT SL (J)</nombre>
+            <año>1996</año>
+        </coche>
+        <coche>
+            <nombre>3000GT SL (J)</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>3000GT SR (J)</nombre>
+            <año>1995</año>
+        </coche>
+        <coche>
+            <nombre>3000GT SR (J)</nombre>
+            <año>1996</año>
+        </coche>
+        <coche>
+            <nombre>3000GT SR (J)</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>3000GT VR-4 (J)</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>3000GT VR-4 Turbo (J)</nombre>
+            <año>1995</año>
+        </coche>
+        <coche>
+            <nombre>3000GT VR-4 Turbo (J)</nombre>
+            <año>1996</año>
+        </coche>
+        <coche>
+            <nombre>3000GT VR-4 Turbo (J)</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>AIRTREK Turbo-R</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>COLT 1.5 Sport X Version</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>CZ-3 Tarmac</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>CZ-3 Tarmac Rally Car</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>ECLIPSE GT</nombre>
+            <año>2006</año>
+        </coche>
+        <coche>
+            <nombre>ECLIPSE GT</nombre>
+            <año>1995</año>
+        </coche>
+        <coche>
+            <nombre>ECLIPSE Spyder GTS</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>FTO GP Version R</nombre>
+            <año>1997</año>
+        </coche>
+        <coche>
+            <nombre>FTO GP Version R</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>FTO GPX</nombre>
+            <año>1994</año>
+        </coche>
+        <coche>
+            <nombre>FTO GPX</nombre>
+            <año>1997</año>
+        </coche>
+        <coche>
+            <nombre>FTO GPX</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>FTO GR</nombre>
+            <año>1994</año>
+        </coche>
+        <coche>
+            <nombre>FTO GR</nombre>
+            <año>1997</año>
+        </coche>
+        <coche>
+            <nombre>FTO Super Touring Car</nombre>
+            <año>1997</año>
+        </coche>
+        <coche>
+            <nombre>Galant 2.0 DOHC Turbo VR-4</nombre>
+            <año>1989</año>
+        </coche>
+        <coche>
+            <nombre>GALANT GTO MR</nombre>
+            <año>1970</año>
+        </coche>
+        <coche>
+            <nombre>GTO SR</nombre>
+            <año>1995</año>
+        </coche>
+        <coche>
+            <nombre>GTO SR</nombre>
+            <año>1996</año>
+        </coche>
+        <coche>
+            <nombre>GTO SR</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>GTO Twin Turbo</nombre>
+            <año>1995</año>
+        </coche>
+        <coche>
+            <nombre>GTO Twin Turbo</nombre>
+            <año>1996</año>
+        </coche>
+        <coche>
+            <nombre>GTO Twin Turbo</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>GTO Twin Turbo MR</nombre>
+            <año>1995</año>
+        </coche>
+        <coche>
+            <nombre>GTO Twin Turbo MR</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>HSR-II Concept</nombre>
+            <año>1989</año>
+        </coche>
+        <coche>
+            <nombre>i</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>Lancer 1600 GSR</nombre>
+            <año>1973</año>
+        </coche>
+        <coche>
+            <nombre>Lancer 1600 GSR Rally Car</nombre>
+            <año>1974</año>
+        </coche>
+        <coche>
+            <nombre>Lancer Evolution GSR</nombre>
+            <año>1992</año>
+        </coche>
+        <coche>
+            <nombre>Lancer Evolution II GSR</nombre>
+            <año>1994</año>
+        </coche>
+        <coche>
+            <nombre>Lancer Evolution III GSR</nombre>
+            <año>1995</año>
+        </coche>
+        <coche>
+            <nombre>Lancer Evolution IV GSR</nombre>
+            <año>1996</año>
+        </coche>
+        <coche>
+            <nombre>Lancer Evolution IV Rally Car</nombre>
+            <año>1997</año>
+        </coche>
+        <coche>
+            <nombre>Lancer Evolution Super Rally Car</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>Lancer Evolution V GSR</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>Lancer Evolution VI GSR</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>Lancer Evolution VI GSR TOMMI MAKINEN Edition</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>Lancer Evolution VI Rally Car</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>Lancer Evolution VI RS</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>Lancer Evolution VI RS TOMMI MAKINEN Edition</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>Lancer Evolution VII GSR</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>Lancer Evolution VII GT-A</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>Lancer Evolution VII RS</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>Lancer Evolution VIII GSR</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>Lancer Evolution VIII MR GSR</nombre>
+            <año>2004</año>
+        </coche>
+        <coche>
+            <nombre>Lancer Evolution VIII RS</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>Lancer EX 1800GSR IC Turbo</nombre>
+            <año>1983</año>
+        </coche>
+        <coche>
+            <nombre>LEGNUM VR-4 Type V</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>MINICA DANGAN ZZ</nombre>
+            <año>1989</año>
+        </coche>
+        <coche>
+            <nombre>MIRAGE 1400GLX</nombre>
+            <año>1978</año>
+        </coche>
+        <coche>
+            <nombre>Mirage CYBORG ZR</nombre>
+            <año>1997</año>
+        </coche>
+        <coche>
+            <nombre>PAJERO Evolution Rally Raid Car</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>PAJERO Rally Raid Car</nombre>
+            <año>1985</año>
+        </coche>
+        <coche>
+            <nombre>STARION 4WD Rally Car</nombre>
+            <año>1984</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Mugen" pais="Japón">
+        <coche>
+            <nombre>S2000</nombre>
+            <año>2000</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Nike" pais="Estados Unidos">
+        <coche>
+            <nombre>One 2022</nombre>
+            <año>2004</año>
+        </coche>
+    </Marca>
+    <Marca nombre="NISMO" pais="Japón">
+        <coche>
+            <nombre>270R</nombre>
+            <año>1994</año>
+        </coche>
+        <coche>
+            <nombre>400R</nombre>
+            <año>1996</año>
+        </coche>
+        <coche>
+            <nombre>Fairlady Z S-tune concept by GRANTURISMO (Z33)</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>Fairlady Z Z-tune (Z33)</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>GT-R LM Road Going Version</nombre>
+            <año>1995</año>
+        </coche>
+        <coche>
+            <nombre>Skyline GT-R R-tune (R34)</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>Skyline GT-R S-tune (R32)</nombre>
+            <año>2000</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Nissan" pais="Japón">
+        <coche>
+            <nombre>180SX Type X</nombre>
+            <año>1996</año>
+        </coche>
+        <coche>
+            <nombre>200SX</nombre>
+            <año>1996</año>
+        </coche>
+        <coche>
+            <nombre>200SX (S14)</nombre>
+            <año>1996</año>
+        </coche>
+        <coche>
+            <nombre>240RS Rally Car</nombre>
+            <año>1985</año>
+        </coche>
+        <coche>
+            <nombre>240SX</nombre>
+            <año>1996</año>
+        </coche>
+        <coche>
+            <nombre>240SX (S14)</nombre>
+            <año>1996</año>
+        </coche>
+        <coche>
+            <nombre>240ZG (HS30)</nombre>
+            <año>1971</año>
+        </coche>
+        <coche>
+            <nombre>300ZX 2by2 (Z32)</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>300ZX 2seater (Z32)</nombre>
+            <año>1989</año>
+        </coche>
+        <coche>
+            <nombre>300ZX 2seater (Z32)</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>350Z (Z33)</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>350Z Concept LM Race Car</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>350Z Gran Turismo 4 Limited Edition (Z33)</nombre>
+            <año>2005</año>
+        </coche>
+        <coche>
+            <nombre>350Z Roadster (Z33)</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>Be-1</nombre>
+            <año>1987</año>
+        </coche>
+        <coche>
+            <nombre>BLUEBIRD 1600 Deluxe (510)</nombre>
+            <año>1969</año>
+        </coche>
+        <coche>
+            <nombre>BLUEBIRD Hardtop 1800SSS (910)</nombre>
+            <año>1979</año>
+        </coche>
+        <coche>
+            <nombre>BLUEBIRD Rally Car (510)</nombre>
+            <año>1969</año>
+        </coche>
+        <coche>
+            <nombre>C-WEST RAZO SILVIA (JGTC)</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>CALSONIC SKYLINE (JGTC)</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>CALSONIC SKYLINE GT-R Race Car</nombre>
+            <año>1993</año>
+        </coche>
+        <coche>
+            <nombre>CUBE EX (FF/CVT)</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>CUBE X</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>EXA CANOPY L.A.Version Type S (N13)</nombre>
+            <año>1988</año>
+        </coche>
+        <coche>
+            <nombre>Fairlady 2000 (SR311)</nombre>
+            <año>1968</año>
+        </coche>
+        <coche>
+            <nombre>Fairlady 240ZG (HS30)</nombre>
+            <año>1971</año>
+        </coche>
+        <coche>
+            <nombre>Fairlady Z 280Z-L 2seater (S130)</nombre>
+            <año>1978</año>
+        </coche>
+        <coche>
+            <nombre>Fairlady Z 300ZX (Z31)</nombre>
+            <año>1983</año>
+        </coche>
+        <coche>
+            <nombre>Fairlady Z 300ZX Twin Turbo 2seater (Z32)</nombre>
+            <año>1989</año>
+        </coche>
+        <coche>
+            <nombre>Fairlady Z 300ZX Version R Twin Turbo 2by2 (Z32)</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>Fairlady Z 300ZX Version S Twin Turbo 2seater (Z32)</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>Fairlady Z Concept LM Race Car</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>Fairlady Z Roadster (Z33)</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>Fairlady Z Version S (Z33)</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>Fairlady Z Version ST (Z33) Option Wheel</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>FALKEN☆GT-R Race Car</nombre>
+            <año>2004</año>
+        </coche>
+        <coche>
+            <nombre>GRAN TURISMO SKYLINE GT-R</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>GRAN TURISMO SKYLINE GT-R (PaceCar)</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>GT-R Concept (TokyoShow)</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>GT-R Concept LM Race Car</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>LOCTITE ZEXEL GT-R (JGTC)</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>March 12c 5door</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>March G♯</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>MICRA</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>mm-R Cup Car</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>MOTUL PITWORK Z (JGTC)</nombre>
+            <año>2004</año>
+        </coche>
+        <coche>
+            <nombre>OPTION Stream Z</nombre>
+            <año>2004</año>
+        </coche>
+        <coche>
+            <nombre>PAO</nombre>
+            <año>1989</año>
+        </coche>
+        <coche>
+            <nombre>PENNZOIL Nismo GT-R (JGTC)</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>PENNZOIL ZEXEL GT-R (JGTC)</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>PRIMERA 2.0Te</nombre>
+            <año>1990</año>
+        </coche>
+        <coche>
+            <nombre>PRIMERA 20V</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>R390 GT1 Race Car</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>R390 GT1 Road Car</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>R89C Race Car</nombre>
+            <año>1989</año>
+        </coche>
+        <coche>
+            <nombre>R92CP Race Car</nombre>
+            <año>1992</año>
+        </coche>
+        <coche>
+            <nombre>SILVIA (CSP311)</nombre>
+            <año>1965</año>
+        </coche>
+        <coche>
+            <nombre>SILVIA 240RS (S110)</nombre>
+            <año>1983</año>
+        </coche>
+        <coche>
+            <nombre>SILVIA K's (S13)</nombre>
+            <año>1988</año>
+        </coche>
+        <coche>
+            <nombre>SILVIA K's (S13)</nombre>
+            <año>1991</año>
+        </coche>
+        <coche>
+            <nombre>SILVIA K's AERO (S14)</nombre>
+            <año>1993</año>
+        </coche>
+        <coche>
+            <nombre>SILVIA K's AERO (S14)</nombre>
+            <año>1996</año>
+        </coche>
+        <coche>
+            <nombre>SILVIA Q's (S13)</nombre>
+            <año>1988</año>
+        </coche>
+        <coche>
+            <nombre>SILVIA Q's (S13)</nombre>
+            <año>1991</año>
+        </coche>
+        <coche>
+            <nombre>SILVIA Q's AERO (S14)</nombre>
+            <año>1993</año>
+        </coche>
+        <coche>
+            <nombre>SILVIA Q's AERO (S14)</nombre>
+            <año>1996</año>
+        </coche>
+        <coche>
+            <nombre>SILVIA Spec R AERO (S15)</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>SILVIA Spec S AERO (S15)</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>SILVIA Varietta (S15)</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>SKYLINE 1500Deluxe (S50D-1)</nombre>
+            <año>1963</año>
+        </coche>
+        <coche>
+            <nombre>SKYLINE 2000GT-B (S54A)</nombre>
+            <año>1967</año>
+        </coche>
+        <coche>
+            <nombre>SKYLINE 2000GT-R (KPGC110)</nombre>
+            <año>1973</año>
+        </coche>
+        <coche>
+            <nombre>SKYLINE COUPE 350GT</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>SKYLINE GT-R (R32)</nombre>
+            <año>1989</año>
+        </coche>
+        <coche>
+            <nombre>SKYLINE GT-R (R32)</nombre>
+            <año>1991</año>
+        </coche>
+        <coche>
+            <nombre>SKYLINE GT-R (R33)</nombre>
+            <año>1995</año>
+        </coche>
+        <coche>
+            <nombre>SKYLINE GT-R (R33)</nombre>
+            <año>1996</año>
+        </coche>
+        <coche>
+            <nombre>SKYLINE GT-R (R33)</nombre>
+            <año>1997</año>
+        </coche>
+        <coche>
+            <nombre>SKYLINE GT-R (R34)</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>SKYLINE GT-R (R34)</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>SKYLINE GT-R M-spec (R34)</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>SKYLINE GT-R M-spec Nür (R34)</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>SKYLINE GT-R N1 (R32)</nombre>
+            <año>1991</año>
+        </coche>
+        <coche>
+            <nombre>SKYLINE GT-R N1 (R33)</nombre>
+            <año>1995</año>
+        </coche>
+        <coche>
+            <nombre>SKYLINE GT-R Special Color Midnight Purple II (R34)</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>SKYLINE GT-R Special Color Midnight Purple III (R34)</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>SKYLINE GT-R V-spec (R34)</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>SKYLINE GT-R V-spec II (R34)</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>SKYLINE GT-R V-spec II N1 (R34)</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>SKYLINE GT-R V-spec II Nür (R34)</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>SKYLINE GT-R V-spec N1 (R34)</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>SKYLINE GT-R Vspec (R32)</nombre>
+            <año>1993</año>
+        </coche>
+        <coche>
+            <nombre>SKYLINE GT-R Vspec (R33)</nombre>
+            <año>1995</año>
+        </coche>
+        <coche>
+            <nombre>SKYLINE GT-R Vspec (R33)</nombre>
+            <año>1996</año>
+        </coche>
+        <coche>
+            <nombre>SKYLINE GT-R Vspec (R33)</nombre>
+            <año>1997</año>
+        </coche>
+        <coche>
+            <nombre>SKYLINE GT-R Vspec II (R32)</nombre>
+            <año>1994</año>
+        </coche>
+        <coche>
+            <nombre>SKYLINE GT-R Vspec LM Limited (R33)</nombre>
+            <año>1996</año>
+        </coche>
+        <coche>
+            <nombre>SKYLINE GT-R Vspec N1 (R32)</nombre>
+            <año>1993</año>
+        </coche>
+        <coche>
+            <nombre>SKYLINE GTS-R (R31)</nombre>
+            <año>1987</año>
+        </coche>
+        <coche>
+            <nombre>SKYLINE GTS-t Type M (R32)</nombre>
+            <año>1989</año>
+        </coche>
+        <coche>
+            <nombre>SKYLINE GTS-t Type M (R32)</nombre>
+            <año>1991</año>
+        </coche>
+        <coche>
+            <nombre>SKYLINE GTS25 Type S (R32)</nombre>
+            <año>1991</año>
+        </coche>
+        <coche>
+            <nombre>SKYLINE Hard Top 2000 RS-X Turbo C (R30)</nombre>
+            <año>1984</año>
+        </coche>
+        <coche>
+            <nombre>SKYLINE Hard Top 2000 Turbo RS (R30)</nombre>
+            <año>1983</año>
+        </coche>
+        <coche>
+            <nombre>SKYLINE Hard Top 2000GT-R (KPGC10)</nombre>
+            <año>1970</año>
+        </coche>
+        <coche>
+            <nombre>SKYLINE SEDAN 300GT</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>SKYLINE SEDAN 350GT-8</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>SKYLINE Sport Coupe (BLRA-3)</nombre>
+            <año>1962</año>
+        </coche>
+        <coche>
+            <nombre>STAGEA 25t RS FOUR S</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>STAGEA 260RS AutechVersion</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>XANAVI HIROTO GT-R (JGTC)</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>XANAVI NISMO GT-R (JGTC)</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>SILEIGHTY</nombre>
+            <año>1998</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Opel" pais="Alemania">
+        <coche>
+            <nombre>Astra Touring Car (Opel Team Phoenix)</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>Calibra Touring Car</nombre>
+            <año>1994</año>
+        </coche>
+        <coche>
+            <nombre>Corsa Comfort 1.4</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>Speedster</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>Speedster Turbo</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>Tigra 1.6i</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>Vectra 3.2 V6</nombre>
+            <año>2003</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Opera Performance" pais="Japón">
+        <coche>
+            <nombre>350Z</nombre>
+            <año>2004</año>
+        </coche>
+        <coche>
+            <nombre>S2000</nombre>
+            <año>2004</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Pagani" pais="Italia">
+        <coche>
+            <nombre>Zonda C12</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>Zonda C12S</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>Zonda C12S 7.3</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>Zonda LM Race Car</nombre>
+            <año>2001</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Panoz" pais="Estados Unidos">
+        <coche>
+            <nombre>Esperante GTR-1 Race Car</nombre>
+            <año>1998</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Pescarolo" pais="Francia">
+        <coche>
+            <nombre>Courage C60/Peugeot Race Car</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>PlayStation Pescarolo C60/Judd Race Car</nombre>
+            <año>2004</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Peugeot" pais="Francia">
+        <coche>
+            <nombre>106 Rallye</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>106 S16</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>205 Turbo 16</nombre>
+            <año>1985</año>
+        </coche>
+        <coche>
+            <nombre>205 Turbo 16 Evolution 2 Rally Car</nombre>
+            <año>1986</año>
+        </coche>
+        <coche>
+            <nombre>205 Turbo 16 Rally Car</nombre>
+            <año>1985</año>
+        </coche>
+        <coche>
+            <nombre>206 Rally Car (Esso)</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>206 Rally Car (Exxon)</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>206 RC</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>206 S16</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>206 CC</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>307 XSi</nombre>
+            <año>2004</año>
+        </coche>
+        <coche>
+            <nombre>406 3.0 V6 Coupé</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>905 Race Car (Esso)</nombre>
+            <año>1992</año>
+        </coche>
+        <coche>
+            <nombre>905 Race Car (Exxon)</nombre>
+            <año>1992</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Plymouth" pais="Estados Unidos">
+        <coche>
+            <nombre>Cuda 440 Six Pack</nombre>
+            <año>1971</año>
+        </coche>
+        <coche>
+            <nombre>Super Bird</nombre>
+            <año>1970</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Polyphony Digital" pais="Japón">
+        <coche>
+            <nombre>Formula Gran Turismo</nombre>
+            <año>2004</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Pontiac" pais="Estados Unidos">
+        <coche>
+            <nombre>GTO 5.7 Coupe</nombre>
+            <año>2004</año>
+        </coche>
+        <coche>
+            <nombre>Solstice Coupe Concept</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>Sunfire GXP Concept</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>Tempest Le Mans GTO</nombre>
+            <año>1964</año>
+        </coche>
+        <coche>
+            <nombre>Vibe GT</nombre>
+            <año>2003</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Proto Motors" pais="Corea del Sur">
+        <coche>
+            <nombre>SPIRRA 4.6 V8</nombre>
+            <año>2004</año>
+        </coche>
+    </Marca>
+    <Marca nombre="RE Amemiya" pais="Japón">
+        <coche>
+            <nombre>AMEMIYA ASPARADRINK RX7 (JGTC)</nombre>
+            <año>2004</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Renault" pais="Francia">
+        <coche>
+            <nombre>5 Maxi Turbo Rally Car</nombre>
+            <año>1985</año>
+        </coche>
+        <coche>
+            <nombre>5 Turbo</nombre>
+            <año>1980</año>
+        </coche>
+        <coche>
+            <nombre>AVANTIME</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>Clio Renault Sport 2.0 16V</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>Clio Renault Sport Trophy V6 24V Race Car</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>Clio Renault Sport V6 24V</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>Clio Renault Sport V6 Phase 2</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>Lutecia Renault Sport 2.0 16V</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>Lutecia Renault Sport Trophy V6 24V Race Car</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>Lutecia Renault Sport V6 24V</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>Lutecia Renault Sport V6 Phase 2</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>Megane 2.0 16V</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>Megane 2.0 IDE Coupe</nombre>
+            <año>2000</año>
+        </coche>
+    </Marca>
+    <Marca nombre="RUF" pais="Alemania">
+        <coche>
+            <nombre>3400S</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>BTR</nombre>
+            <año>1986</año>
+        </coche>
+        <coche>
+            <nombre>CTR "Yellow Bird"</nombre>
+            <año>1987</año>
+        </coche>
+        <coche>
+            <nombre>CTR2</nombre>
+            <año>1996</año>
+        </coche>
+        <coche>
+            <nombre>RGT</nombre>
+            <año>2000</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Saleen" pais="Estados Unidos">
+        <coche>
+            <nombre>S7</nombre>
+            <año>2002</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Scion" pais="Estados Unidos">
+        <coche>
+            <nombre>xA</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>xB</nombre>
+            <año>2003</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Seat" pais="España">
+        <coche>
+            <nombre>Ibiza Cupra</nombre>
+            <año>2004</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Shelby" pais="Estados Unidos">
+        <coche>
+            <nombre>Cobra 427</nombre>
+            <año>1967</año>
+        </coche>
+        <coche>
+            <nombre>Mustang G.T. 350R</nombre>
+            <año>1965</año>
+        </coche>
+        <coche>
+            <nombre>Series 1 Super Charged</nombre>
+            <año>2003</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Spoon" pais="Japón">
+        <coche>
+            <nombre>CIVIC TYPE R (EK)</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>Fit Race Car</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>INTEGRA TYPE R (DC2)</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>S2000</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>S2000 Race Car</nombre>
+            <año>2000</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Spyker" pais="Países Bajos">
+        <coche>
+            <nombre>C8 Laviolette</nombre>
+            <año>2002</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Subaru" pais="Japón">
+        <coche>
+            <nombre>CUSCO SUBARU ADVAN IMPREZA (JGTC)</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>IMPREZA Coupe WRXtypeR STi Version VI (GC)</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>IMPREZA Premium Sport Coupe 22B-STi Version (GC)</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>IMPREZA Rally Car</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>IMPREZA Rally Car</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>IMPREZA Rally Car</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>IMPREZA Rally Car Prototype</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>IMPREZA Sedan WRX STi (GC)</nombre>
+            <año>1994</año>
+        </coche>
+        <coche>
+            <nombre>IMPREZA Sedan WRX STi (GD, Type-II)</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>IMPREZA Sedan WRX STi spec C (GD, Type-II)</nombre>
+            <año>2004</año>
+        </coche>
+        <coche>
+            <nombre>IMPREZA Sedan WRX STi Version (GD, Type-I)</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>IMPREZA Sedan WRX STi Version II (GC)</nombre>
+            <año>1995</año>
+        </coche>
+        <coche>
+            <nombre>IMPREZA Sedan WRX STi Version III (GC)</nombre>
+            <año>1996</año>
+        </coche>
+        <coche>
+            <nombre>IMPREZA Sedan WRX STi Version IV (GC)</nombre>
+            <año>1997</año>
+        </coche>
+        <coche>
+            <nombre>IMPREZA Sedan WRX STi Version V (GC)</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>IMPREZA Sedan WRX STi Version VI (GC)</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>IMPREZA Sport Wagon STi (GG, Type-I)</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>IMPREZA Sport Wagon WRX STi Version VI (GF)</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>IMPREZA Super Touring Car</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>IMPREZA WRX STi Prodrive Style (GD, Type-I)</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>LEGACY B4 2.0GT</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>LEGACY B4 2.0GT specB</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>LEGACY B4 3.0R</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>LEGACY B4 Blitzen</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>LEGACY B4 RSK</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>LEGACY Touring Wagon 2.0GT</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>LEGACY Touring Wagon 2.0GT specB</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>LEGACY Touring Wagon 3.0R</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>LEGACY Touring Wagon GT-B</nombre>
+            <año>1996</año>
+        </coche>
+        <coche>
+            <nombre>360</nombre>
+            <año>1958</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Suzuki" pais="Japón">
+        <coche>
+            <nombre>ALTO LAPIN Turbo</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>ALTO WORKS RS-Z</nombre>
+            <año>1997</año>
+        </coche>
+        <coche>
+            <nombre>ALTO WORKS SUZUKI SPORT LIMITED</nombre>
+            <año>1997</año>
+        </coche>
+        <coche>
+            <nombre>Cappuccino (EA11R)</nombre>
+            <año>1991</año>
+        </coche>
+        <coche>
+            <nombre>Cappuccino (EA21R)</nombre>
+            <año>1995</año>
+        </coche>
+        <coche>
+            <nombre>CONCEPT-S2</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>ESCUDO Dirt Trial Car</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>GSX-R/4</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>Kei WORKS</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>MR Wagon Sport</nombre>
+            <año>2004</año>
+        </coche>
+        <coche>
+            <nombre>WAGON R RR</nombre>
+            <año>1998</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Tom's" pais="Japón">
+        <coche>
+            <nombre>X540 CHASER</nombre>
+            <año>2000</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Tommy kaira" pais="Japón">
+        <coche>
+            <nombre>ZZ-S</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>ZZII</nombre>
+            <año>2000</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Toyota" pais="Japón">
+        <coche>
+            <nombre>2000GT</nombre>
+            <año>1967</año>
+        </coche>
+        <coche>
+            <nombre>7 Race Car</nombre>
+            <año>1970</año>
+        </coche>
+        <coche>
+            <nombre>ALTEZZA AS200</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>ALTEZZA Gita AS300</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>ALTEZZA RS200</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>ALTEZZA Touring Car</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>ARISTO 3.0V</nombre>
+            <año>1991</año>
+        </coche>
+        <coche>
+            <nombre>ARISTO V300</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>ARISTO V300 Vertex Edition</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>au CERUMO Supra (JGTC)</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>bB 1.5Z X Version</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>CALDINA GT-FOUR</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>CARINA ED 2.0 X 4WS</nombre>
+            <año>1989</año>
+        </coche>
+        <coche>
+            <nombre>Castrol Tom's Supra (JGTC)</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>Castrol Tom's Supra (JGTC)</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>CELICA 1600GT (TA22)</nombre>
+            <año>1970</año>
+        </coche>
+        <coche>
+            <nombre>CELICA 2000GT-FOUR (ST165)</nombre>
+            <año>1986</año>
+        </coche>
+        <coche>
+            <nombre>CELICA 2000GT-R (ST162)</nombre>
+            <año>1986</año>
+        </coche>
+        <coche>
+            <nombre>CELICA GT-FOUR (ST205)</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>CELICA GT-FOUR Rally Car (ST185)</nombre>
+            <año>1995</año>
+        </coche>
+        <coche>
+            <nombre>CELICA GT-FOUR Rally Car (ST205)</nombre>
+            <año>1995</año>
+        </coche>
+        <coche>
+            <nombre>CELICA GT-FOUR RC (ST185)</nombre>
+            <año>1991</año>
+        </coche>
+        <coche>
+            <nombre>CELICA GT-R (ST183, 4WS)</nombre>
+            <año>1991</año>
+        </coche>
+        <coche>
+            <nombre>CELICA SS-II (ST202)</nombre>
+            <año>1997</año>
+        </coche>
+        <coche>
+            <nombre>CELICA SS-II (ZZT231)</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>CELICA XX 2800GT</nombre>
+            <año>1981</año>
+        </coche>
+        <coche>
+            <nombre>COROLLA LEVIN BZ-R</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>COROLLA LEVIN GT-APEX (AE86)</nombre>
+            <año>1983</año>
+        </coche>
+        <coche>
+            <nombre>COROLLA Rally Car</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>COROLLA RUNX Z AEROTOURER</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>DENSO SARD SUPRA GT (JGTC)</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>ESSO Ultraflo Supra (JGTC)</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>GT-ONE Race Car (TS020)</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>ist 1.5S</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>MINOLTA Toyota 88C-V Race Car</nombre>
+            <año>1989</año>
+        </coche>
+        <coche>
+            <nombre>Motor Triathlon Race Car</nombre>
+            <año>2004</año>
+        </coche>
+        <coche>
+            <nombre>MR-S S Edition</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>MR-S V Edition (6MT)</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>MR2 1600 G</nombre>
+            <año>1986</año>
+        </coche>
+        <coche>
+            <nombre>MR2 1600 G-Limited Super Charger</nombre>
+            <año>1986</año>
+        </coche>
+        <coche>
+            <nombre>MR2 G-Limited</nombre>
+            <año>1997</año>
+        </coche>
+        <coche>
+            <nombre>MR2 GT-S</nombre>
+            <año>1997</año>
+        </coche>
+        <coche>
+            <nombre>MR2 S Edition</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>MR2 Spyder</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>MR2 Spyder (6-speed sequential manual transmission)</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>MR2 V Edition</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>PRIUS G (J)</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>Prius G Touring Selection (J)</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>RSC</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>RSC Rally Raid Car</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>SERA</nombre>
+            <año>1992</año>
+        </coche>
+        <coche>
+            <nombre>SOARER 2.5GT-T</nombre>
+            <año>1997</año>
+        </coche>
+        <coche>
+            <nombre>SOARER 430SCV</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>SPORTS 800</nombre>
+            <año>1965</año>
+        </coche>
+        <coche>
+            <nombre>SPRINTER TRUENO BZ-R</nombre>
+            <año>1998</año>
+        </coche>
+        <coche>
+            <nombre>SPRINTER TRUENO GT-APEX (AE86)</nombre>
+            <año>1983</año>
+        </coche>
+        <coche>
+            <nombre>SPRINTER TRUENO GT-APEX (AE86) Shuichi Shigeno Version</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>STARLET Glanza V</nombre>
+            <año>1997</año>
+        </coche>
+        <coche>
+            <nombre>SUPERAUTOBACS APEX MR-S (JGTC)</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>SUPRA 2.5GT Twin Turbo R</nombre>
+            <año>1990</año>
+        </coche>
+        <coche>
+            <nombre>SUPRA 3.0GT Turbo A</nombre>
+            <año>1988</año>
+        </coche>
+        <coche>
+            <nombre>SUPRA RZ</nombre>
+            <año>1997</año>
+        </coche>
+        <coche>
+            <nombre>SUPRA SZ-R</nombre>
+            <año>1997</año>
+        </coche>
+        <coche>
+            <nombre>Tacoma X-Runner</nombre>
+            <año>2004</año>
+        </coche>
+        <coche>
+            <nombre>VITZ F</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>VITZ RS 1.5</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>VITZ RS Turbo</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>VITZ U Euro Sport Edition</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>VOLTZ S</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>WEDSSPORT CELICA (JGTC)</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>WiLL VS</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>WOODONE Tom's Supra (JGTC)</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>Yaris F (J)</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>Yaris RS 1.5 (J)</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>Yaris RS Turbo (J)</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>Yaris U Euro Sport Edition (J)</nombre>
+            <año>2000</año>
+        </coche>
+    </Marca>
+    <Marca nombre="TRD Toyota Modellista" pais="Japón">
+        <coche>
+            <nombre>CELICA TRD Sports M (ZZT231)</nombre>
+            <año>2000</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Triumph" pais="Reino Unido">
+        <coche>
+            <nombre>Spitfire 1500</nombre>
+            <año>1974</año>
+        </coche>
+    </Marca>
+    <Marca nombre="TVR" pais="Reino Unido">
+        <coche>
+            <nombre>Cerbera Speed 12</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>Cerbera Speed Six</nombre>
+            <año>1997</año>
+        </coche>
+        <coche>
+            <nombre>Griffith 500</nombre>
+            <año>1994</año>
+        </coche>
+        <coche>
+            <nombre>T350C</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>Tamora</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>Tuscan Speed 6</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>V8S</nombre>
+            <año>1991</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Vauxhall" pais="Reino Unido">
+        <coche>
+            <nombre>Astra Super Touring Car</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>Calibra Super Touring Car</nombre>
+            <año>1994</año>
+        </coche>
+        <coche>
+            <nombre>Corsa Comfort 1.4</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>Tigra 1.6i</nombre>
+            <año>1999</año>
+        </coche>
+        <coche>
+            <nombre>Vectra 3.2 V6</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>VX220</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>VX220 Turbo</nombre>
+            <año>2000</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Volkswagen" pais="Alemania">
+        <coche>
+            <nombre>Beetle 1100 Standard (Type-11)</nombre>
+            <año>1949</año>
+        </coche>
+        <coche>
+            <nombre>Bora V6 4MOTION</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>Golf I GTI</nombre>
+            <año>1976</año>
+        </coche>
+        <coche>
+            <nombre>Golf IV GTI</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>Golf IV R32</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>Golf V GTI</nombre>
+            <año>2005</año>
+        </coche>
+        <coche>
+            <nombre>Karmann Ghia Coupe (Type-1)</nombre>
+            <año>1968</año>
+        </coche>
+        <coche>
+            <nombre>Lupo Cup Car</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>Lupo GTI</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>Lupo GTI Cup Car (J)</nombre>
+            <año>2003</año>
+        </coche>
+        <coche>
+            <nombre>Lupo1.4</nombre>
+            <año>2002</año>
+        </coche>
+        <coche>
+            <nombre>New Beetle 2.0</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>New Beetle Cup Car</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>New Beetle RSi</nombre>
+            <año>2000</año>
+        </coche>
+        <coche>
+            <nombre>Polo GTI</nombre>
+            <año>2001</año>
+        </coche>
+        <coche>
+            <nombre>W12 Nardo Concept</nombre>
+            <año>2001</año>
+        </coche>
+    </Marca>
+    <Marca nombre="Volvo" pais="Suecia">
+        <coche>
+            <nombre>240 GLT Estate</nombre>
+            <año>1988</año>
+        </coche>
+        <coche>
+            <nombre>S60 T 5 Sport</nombre>
+            <año>2003</año>
+        </coche>
+    </Marca>
+</GranTurismo4>

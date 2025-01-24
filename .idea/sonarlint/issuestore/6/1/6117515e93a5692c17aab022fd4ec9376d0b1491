@@ -1,0 +1,31 @@
+
+œ
+java:S1192"YDefine a constant instead of duplicating this literal "com.mysql.cj.jdbc.Driver" 5 times.(ğ¿Éí8ˆŒÂÕü1J$0c88435c-28bd-4b34-8683-5df5f4553f3f
+
+java:S2095d"GUse try-with-resources or close this "Statement" in a "finally" clause.(µ€¸İüÿÿÿÿ8šŒÂÕü1J$e06364aa-7d41-448c-82dc-0ce00f9b76fb
+
+java:S2095>"GUse try-with-resources or close this "Statement" in a "finally" clause.(µ€¸İüÿÿÿÿ8šŒÂÕü1J$87f87df9-423d-49b1-b664-e9bd5bead617
+
+java:S2095R"GUse try-with-resources or close this "Statement" in a "finally" clause.(µ€¸İüÿÿÿÿ8šŒÂÕü1J$c81c5371-5a4e-4af2-ab69-57e509dd74d4
+Œ
+java:S2583"DChange this condition so that it does not always evaluate to "false"(Ûáúÿÿÿÿ8›ŒÂÕü1J$2b7d9d04-a94b-4c2a-b8ba-c7e13509ee4a
+Œ
+java:S2583/"DChange this condition so that it does not always evaluate to "false"(Ûáúÿÿÿÿ8›ŒÂÕü1J$1a6143c5-d7d5-4318-b9da-1de3f3084ae2
+|
+java:S1118":Add a private constructor to hide the implicit public one.(÷Æ¿g8ŒÂÕü1J$d184ccd1-e3dd-453b-9afd-77c7164f772b
+~
+java:S6437"6Revoke and change this password, as it is compromised.(ô°âˆşÿÿÿÿ8¡ŒÂÕü1J$4e2a0a8f-6158-4fb4-9f0c-995c56109bdb
+m	java:S106"+Replace this use of System.out by a logger.(Í½¥8¢ŒÂÕü1J$b97b0991-28df-4ff5-a018-21e72c55d6b2
+r	java:S106!"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8¢ŒÂÕü1J$298ffb9c-2f24-4fdf-a3a4-b2e849a27c19
+~
+java:S6437-"6Revoke and change this password, as it is compromised.(’ûêşÿÿÿÿ8¤ŒÂÕü1J$c939f4e8-9427-45fb-ad2d-ecdfc9520678
+r	java:S1060"+Replace this use of System.out by a logger.(ÏÙ˜èúÿÿÿÿ8¥ŒÂÕü1J$8513a452-5ff6-425d-9de1-d40a1b4563cd
+r	java:S1064"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8¥ŒÂÕü1J$624f775e-8375-4910-8edd-35687646bd78
+r	java:S106J"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8§ŒÂÕü1J$a6139812-bbf7-45f1-b0c2-325af453e69a
+u
+java:S6126T"2Replace this String concatenation with Text block.(±ŞÃ™8©ŒÂÕü1J$192474aa-302e-4d18-8910-54682afd120d
+r	java:S106\"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8©ŒÂÕü1J$ede1b6c6-2d2b-4931-8aec-22bafc0db4a0
+u
+java:S6126f"2Replace this String concatenation with Text block.(ôûÃ¬8ªŒÂÕü1J$cefab5bb-4e05-47b0-abb3-00edf6a3d228
+r	java:S106p"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8ªŒÂÕü1J$089a6235-0e36-4f67-a4d0-170c436024f3
+r	java:S106x"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8«ŒÂÕü1J$92b54b30-bf4f-44a6-a5e0-c17bf018b358
